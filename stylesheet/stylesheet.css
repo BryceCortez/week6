@@ -26,11 +26,12 @@ a:link:hover{
     color: pink;
 }
 
-li:first-of-type:first-letter{
+li:first-of-type::first-letter{
     font-weight: bold;
 font-size: 120%;
 }
 
-a{
+[title="BCIT homepage"]
+{
     background-color: yellow;
 }
