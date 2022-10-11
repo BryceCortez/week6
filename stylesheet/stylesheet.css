@@ -7,6 +7,10 @@ h2+p {
     color: red;
 }
 
-.list {
+ul.list > li{
     list-style: none;
+    border-bottom-color:grey;
+    border: 1px;
+    border-bottom-style: solid;
 }
+
