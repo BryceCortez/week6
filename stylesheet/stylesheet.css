@@ -35,3 +35,11 @@ font-size: 120%;
 {
     background-color: yellow;
 }
+
+img {
+    float: left;
+    
+}
+
+.below{
+    clear: left;
